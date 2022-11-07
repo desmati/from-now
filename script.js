@@ -47,3 +47,5 @@ output.innerHTML += fromNow(new Date(Date.now() - aDay * 1000)) + '<br/><br/>';
 output.innerHTML += fromNow(new Date(Date.now() - aWeek * 2000)) + '<br/><br/>';
 output.innerHTML += fromNow(new Date(Date.now() - aMonth * 4000)) + '<br/><br/>';
 output.innerHTML += fromNow(new Date(Date.now() - aYear * 1000)) + '<br/><br/>';
+
+Demo: https://from-now.netlify.app/
